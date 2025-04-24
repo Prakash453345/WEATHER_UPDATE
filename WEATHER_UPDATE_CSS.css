@@ -3,8 +3,8 @@ body
     margin:0px;
     padding:0px;
     height: 100dvh;
-    border:1 px solid black;
-    background: linear-gradient(to bottom, #dbe9f4, #a2c3dd, #88b0d3); 
+    border:1 px solid black; 
+    background: linear-gradient(to bottom, #c9d6ff, #e2e2e2);
 }
 
 .total
